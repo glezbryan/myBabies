@@ -1,6 +1,15 @@
+body{
+    margin: 0px;
+}
+
 header{
-    background-color: MediumOrchid
+    background-color: cyan;
+    padding: 25px;
+}
+main{
+    padding 25px;
 }
 footer{
-    background-color: MediumOrchid
+    background-color: cyan;
+    padding: 25px;
 }
