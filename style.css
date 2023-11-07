@@ -5,6 +5,28 @@ body{
 header{
     background-color: Cyan;
     padding: 25px;
+    
+}
+#tab{
+    color: black;
+    border:1px;
+    border-color: black;
+    border-style: solid;
+    width: 100px;
+    background-color: #35bebe96;
+    padding: 4px;
+    margin: 0;
+}
+#activeTab{
+    color: black;
+    font-style: bold;
+    border:1px;
+    border-color: black;
+    border-style: solid;
+    width: 100px;
+    background-color: #f4f8f896;
+    padding: 4px;
+    margin: 0;
 }
 main{
     margin-left:25px
