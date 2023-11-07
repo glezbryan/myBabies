@@ -7,9 +7,9 @@ header{
     padding: 25px;
 }
 main{
-    padding: 25px;
+    margin-left:25px
 }
 footer{
     background-color: Cyan;
-    padding: 25px;
+    padding: 15px;
 }
